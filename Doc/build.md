@@ -7,7 +7,7 @@
 <img width="700" alt="PCB" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB.jpg">  
 左右に分割します。手で力をかければ割れます。  
 <img width="700" alt="PCBcut" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB_cut.jpg">  
-不要な行と列を切り離します。分割したい部分を雑誌等で押さえて手で力をかけて割ります。  
+不要な行と列を切り離します。分割したい部分を雑誌等で押さえて上から力をかけて割ります。  
 <img width="700" alt="PCBcut" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB_cut2.jpg">  
 断面はニッパー等で整えます。  
 
