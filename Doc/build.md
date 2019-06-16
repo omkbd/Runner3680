@@ -48,12 +48,13 @@
 https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_jp.md#pro-micro  
 
 ## 7 ケースの組み立て
-5mmのねじと6mmのスペーサーを取り付けます。  
-<img width="700" alt="spacer" src="https://github.com/omkbd/Runner3680/blob/master/Picture/spacer.jpg">  
-5mmのねじと8mmのねじを取り付けます。  
-<img width="700" alt="case" src="https://github.com/omkbd/Runner3680/blob/master/Picture/case.jpg">  
-ゴム足を取り付けます。  
-<img width="700" alt="gom" src="https://github.com/omkbd/Runner3680/blob/master/Picture/gom.jpg">  
+図の赤丸の位置に5mmのねじと6mmのスペーサーを取り付けます。  
+<img width="700" alt="spacer" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Spacer.png">  
+図の赤丸の位置に5mmのねじ、青丸の位置に8mmのねじを取り付けます。  
+青丸の位置は図の上下のパーツを組み合わせます。  
+<img width="700" alt="case" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Case.png">  
+緑丸の位置にゴム足を取り付けます。  
+<img width="700" alt="gom" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Gom.png">  
 
 ## 8 Firmwareの書き込み
 以下を参考に書き込んでください。または、QMKで検索すると書き込み方がすぐに出てくるはずです。  
