@@ -75,5 +75,5 @@ Backlightを点けるにはkeymap内のrules.mkに以下を追記します。AUD
 `RGBLIGHT_ENABLE = yes  `
 
 初めての方は以下のツールを使うことをお勧めします。（これらを使用する場合LED系は点灯しません。）  
-https://config.qmk.fm/#/ergodash/rev2/LAYOUT  
+https://config.qmk.fm/#/runner3680/LAYOUT  
 https://github.com/qmk/qmk_toolbox
