@@ -4,22 +4,26 @@
 ## 0 準備
 組みたいレイアウトによってPCBを切断します。  
 <img width="700" alt="PCB" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB.jpg">  
+左右に分割します。手で力をかければ割れます。  
 <img width="700" alt="PCBcut" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB_cut.jpg">  
-手で力をかければ割れます。  
+不要な行と列を切り離します。分割したい部分を雑誌等で押さえて手で力をかけて割ります。  
+断面はニッパー等で整えます。  
 
 ## 1 Backlight RGB LEDの取付け[Option]
-
+バックライト用のチップLEDはPCBの下面側から実装します。向きに注意して穴に入れてください。裏から見て、一番大きいパッドとシルクの○が同じ位置になります。  
+シルクが見えなくなっているところがありますが、同じ行は同じ向きですので見えるところを参考にしてください。また、行ごとに向きが変わるので注意してください。  
+調温半田ごてを使い、約220℃ではんだ付けします。温度が高いとLEDが壊れますので注意してください。  
 <img width="700" alt="RGB_LED" src="https://github.com/omkbd/Runner3680/blob/master/Picture/RGB_LED.jpg">  
 
 ## 2 ダイオードの取付け
 ダイオードの黒いほうが四角いフットプリントに合うように配置します。  
-<img width="400" alt="diode" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Diode.jpg">  
+<img width="700" alt="diode" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Diode.jpg">  
 
 ## 3 TRRSジャックの取付け  
-内側上部の白い四角い枠のシルクに沿って取り付けます。  
+白い四角い枠のシルクに沿って取り付けます。  
 
 ## 4 リセットスイッチの取付け  
-取り付けます。  
+白い四角い枠のシルクに沿って取り付けます。  
 
 ## 5 Pro Micro用ピンヘッダの取付け
 白い四角い枠がついているほうにピンヘッダを取り付けます。  
