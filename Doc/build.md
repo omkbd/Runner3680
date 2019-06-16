@@ -1,5 +1,6 @@
 # Runner3680 Build Guide
 **一度すべて読んでから組み立てることをお勧めします。**  
+**アクリルプレートを使用する場合はChocスイッチは使用できません。**  
 
 ## 0 準備
 組みたいレイアウトによってPCBを切断します。  
@@ -48,7 +49,7 @@
 https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_jp.md#pro-micro  
 
 ## 7 ケースの組み立て
-図の赤丸の位置に5mmのねじと6mmのスペーサーを取り付けます。  
+図の赤丸の位置に5mmのねじと6mmのスペーサーを取り付けます。  外側の穴はオプションです。
 <img width="700" alt="spacer" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Spacer.png">  
 図の赤丸の位置に5mmのねじ、青丸の位置に8mmのねじを取り付けます。  
 青丸の位置は図の上下のパーツを組み合わせます。  
