@@ -3,17 +3,17 @@
 
 ## 0 準備
 組みたいレイアウトによってPCBを切断します。  
-<img width="700" alt="PCB" src="https://github.com/omkbd/Runner3680/Picture/blob/master/PCB.jpg">  
-<img width="700" alt="PCBcut" src="https://github.com/omkbd/Runner3680/Picture/blob/master/PCB_cut.jpg">  
+<img width="700" alt="PCB" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB.jpg">  
+<img width="700" alt="PCBcut" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB_cut.jpg">  
 手で力をかければ割れます。  
 
 ## 1 Backlight RGB LEDの取付け[Option]
 
-<img width="700" alt="RGB_LED" src="https://github.com/omkbd/Runner3680/Picture/blob/master/RGB_LED.jpg">  
+<img width="700" alt="RGB_LED" src="https://github.com/omkbd/Runner3680/blob/master/Picture/RGB_LED.jpg">  
 
 ## 2 ダイオードの取付け
 ダイオードの黒いほうが四角いフットプリントに合うように配置します。  
-<img width="400" alt="diode" src="https://github.com/omkbd/Runner3680/Picture/blob/master/Diode.jpg">  
+<img width="400" alt="diode" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Diode.jpg">  
 
 ## 3 TRRSジャックの取付け  
 内側上部の白い四角い枠のシルクに沿って取り付けます。  
@@ -30,7 +30,7 @@
 **スイッチを取り付ける前に部品の取付けやはんだ付けができているか確認します。**  
 （TRRSジャックとリセットスイッチは特に注意が必要です。）  
 アクリルプレートにキースイッチをはめて取り付けします。  
-<img width="700" alt="switch" src="https://github.com/omkbd/Runner3680/Picture/blob/master/switch.jpg">  
+<img width="700" alt="switch" src="https://github.com/omkbd/Runner3680/blob/master/Picture/switch.jpg">  
 ※スプリングピンヘッダを使用する場合は7の工程を先に行い、動作確認をすると失敗する可能性が減ります。
 
 ## 7 Pro Microの取付け
@@ -45,11 +45,11 @@ https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_jp.md#pro-mic
 
 ## 8 ケースの組み立て
 5mmのねじと6mmのスペーサーを取り付けます。  
-<img width="700" alt="spacer" src="https://github.com/omkbd/Runner3680/Picture/blob/master/spacer.jpg">  
+<img width="700" alt="spacer" src="https://github.com/omkbd/Runner3680/blob/master/Picture/pacer.jpg">  
 5mmのねじと8mmのねじを取り付けます。  
-<img width="700" alt="case" src="https://github.com/omkbd/Runner3680/Picture/blob/master/case.jpg">  
+<img width="700" alt="case" src="https://github.com/omkbd/Runner3680/blob/master/Picture/case.jpg">  
 ゴム足を取り付けます。  
-<img width="700" alt="gom" src="https://github.com/omkbd/Runner3680/Picture/blob/master/gom.jpg">  
+<img width="700" alt="gom" src="https://github.com/omkbd/Runner3680/blob/master/Picture/gom.jpg">  
 
 ## 9 Firmwareの書き込み
 以下を参考に書き込んでください。または、QMKで検索すると書き込み方がすぐに出てくるはずです。  
