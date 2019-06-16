@@ -11,8 +11,7 @@
 
 ## 1 Backlight RGB LEDの取付け[Option]
 バックライト用のチップLEDはPCBの下面側から実装します。向きに注意して穴に入れてください。裏から見て、一番大きいパッドとシルクの○が同じ位置になります。  
-シルクが見えなくなっているところがありますが、同じ行は同じ向きですので見えるところを参考にしてください。また、行ごとに向きが変わるので注意してください。  
-調温半田ごてを使い、約220℃ではんだ付けします。温度が高いとLEDが壊れますので注意してください。  
+温調半田ごてを使い、約220℃ではんだ付けします。温度が高いとLEDが壊れますので注意してください。  
 <img width="700" alt="RGB_LED" src="https://github.com/omkbd/Runner3680/blob/master/Picture/RGB_LED.jpg">  
 
 ## 2 ダイオードの取付け
@@ -25,17 +24,17 @@
 ## 4 リセットスイッチの取付け  
 白い四角い枠のシルクに沿って取り付けます。  
 
-## 5 Pro Micro用ピンヘッダの取付け
+## 5 Pro Micro用ピンヘッダの取付け  
+**※コンスルー（スプリングピンヘッダ）を使う場合はこの工程は不要です。**  
 白い四角い枠がついているほうにピンヘッダを取り付けます。  
 **この時点でPro Microを取り付けてはいけません。**  
-**※コンスルー（スプリングピンヘッダ）を使う場合はこの工程は不要です。**  
 
 ## 6 キースイッチの取付け
 **スイッチを取り付ける前に部品の取付けやはんだ付けができているか確認します。**  
 （TRRSジャックとリセットスイッチは特に注意が必要です。）  
 アクリルプレートにキースイッチをはめて取り付けします。  
 <img width="700" alt="switch" src="https://github.com/omkbd/Runner3680/blob/master/Picture/switch.jpg">  
-※スプリングピンヘッダを使用する場合は7の工程を先に行い、動作確認をすると失敗する可能性が減ります。
+※スプリングピンヘッダを使用する場合は7と9の工程を先に行い、動作確認をすると失敗する可能性が減ります。
 
 ## 7 Pro Microの取付け
 **作業前にPro MicroをUSBでPCと繋げて動作を確認しておきましょう。**  
@@ -49,7 +48,7 @@ https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_jp.md#pro-mic
 
 ## 8 ケースの組み立て
 5mmのねじと6mmのスペーサーを取り付けます。  
-<img width="700" alt="spacer" src="https://github.com/omkbd/Runner3680/blob/master/Picture/pacer.jpg">  
+<img width="700" alt="spacer" src="https://github.com/omkbd/Runner3680/blob/master/Picture/spacer.jpg">  
 5mmのねじと8mmのねじを取り付けます。  
 <img width="700" alt="case" src="https://github.com/omkbd/Runner3680/blob/master/Picture/case.jpg">  
 ゴム足を取り付けます。  
@@ -60,6 +59,10 @@ https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_jp.md#pro-mic
 https://docs.qmk.fm/#/getting_started_build_tools  
 Runner3680のFirmwareは以下にあります。  
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/runner3680
+レイアウトによってファームウェアが異なります。
+例えば5行6列の場合は5x6を使用します。
+左右で異なるレイアウトの場合は大きいほうのファームウェアを使用します。
+デフォルトのキーマップは使い物にならないので、ご自分で調整してください。
 
 右手側をマスターにした場合はqmkのkeymap内のconfig.hファイルで
 `MASTER_RIGHT`を指定してファームウェアをビルドする必要があります。
