@@ -22,7 +22,7 @@
 
 ## 3 リセットスイッチとTRRSジャックの取付け  
 白い四角い枠のシルクに沿って裏側に取り付けます。  
-<img width="700" alt="diode" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Switch_TRRS.jpg">  
+<img width="700" alt="S_T" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Switch_TRRS.JPG">  
 
 ## 4 Pro Micro用ピンヘッダの取付け  
 **※コンスルー（スプリングピンヘッダ）を使う場合はこの工程は不要です。**  
