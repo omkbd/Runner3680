@@ -17,6 +17,9 @@
 <img width="300" alt="RGB" src="https://github.com/omkbd/Runner3680/blob/master/Picture/RGB.png">  
 <img width="700" alt="RGB_LED" src="https://github.com/omkbd/Runner3680/blob/master/Picture/RGB_LED.jpg">  
 
+6列、7列にした場合は下図の位置2ヶ所をはんだでジャンパします。  
+<img width="700" alt="Jumper" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Jumper.png">  
+
 ## 2 ダイオードの取付け
 ダイオードの黒いほうが四角いフットプリントに合うように配置します。  
 <img width="300" alt="diode" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Diode2.png">  
