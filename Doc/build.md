@@ -17,6 +17,7 @@
 
 ## 2 ダイオードの取付け
 ダイオードの黒いほうが四角いフットプリントに合うように配置します。  
+<img width="300" alt="diode" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Diode2.png">  
 <img width="700" alt="diode" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Diode.jpg">  
 
 ## 3 TRRSジャックの取付け  
