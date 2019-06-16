@@ -8,8 +8,9 @@
 左右に分割します。手で力をかければ割れます。  
 <img width="700" alt="PCBcut" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB_cut.jpg">  
 不要な行と列を切り離します。分割したい部分を雑誌等で押さえて上から力をかけて割ります。  
+行の切断は少し力が必要です。両方向に曲げて、ねじじることで切断します。  
 <img width="700" alt="PCBcut" src="https://github.com/omkbd/Runner3680/blob/master/Picture/PCB_cut2.jpg">  
-断面はニッパー等で整えます。  
+断面をニッパー等で整えます。  
 
 ## 1 Backlight RGB LEDの取付け[Option]
 バックライト用のチップLEDはPCBの下面側から実装します。向きに注意して穴に入れてください。裏から見て、一番大きいパッドとシルクの○が同じ位置になります。  
