@@ -35,7 +35,7 @@
 **スイッチを取り付ける前に部品の取付けやはんだ付けができているか確認します。**  
 （TRRSジャックとリセットスイッチは特に注意が必要です。）  
 アクリルプレートにキースイッチをはめて取り付けします。  
-<img width="700" alt="switch" src="https://github.com/omkbd/Runner3680/blob/master/Picture/switch.jpg">  
+<img width="700" alt="switch" src="https://github.com/omkbd/Runner3680/blob/master/Picture/Switch.jpg">  
 ※スプリングピンヘッダを使用する場合は6と8の工程を先に行い、動作確認をすると失敗する可能性が減ります。
 
 ## 6 Pro Microの取付け
