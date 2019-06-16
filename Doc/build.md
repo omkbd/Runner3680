@@ -12,6 +12,7 @@
 ## 1 Backlight RGB LEDの取付け[Option]
 バックライト用のチップLEDはPCBの下面側から実装します。向きに注意して穴に入れてください。裏から見て、一番大きいパッドとシルクの○が同じ位置になります。  
 温調半田ごてを使い、約220℃ではんだ付けします。温度が高いとLEDが壊れますので注意してください。  
+<img width="300" alt="RGB" src="https://github.com/omkbd/Runner3680/blob/master/Picture/RGB.png">  
 <img width="700" alt="RGB_LED" src="https://github.com/omkbd/Runner3680/blob/master/Picture/RGB_LED.jpg">  
 
 ## 2 ダイオードの取付け
