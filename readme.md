@@ -11,4 +11,4 @@ The Runner3680 uses QMK for its firmware, and the code for it is here:
 
 # Build Guide
 
-[Japanese Build Guide](https://github.com/omkbd/ErgoDash/blob/master/Doc/build.md)  
+[Japanese Build Guide](https://github.com/omkbd/Runner3680/blob/master/Doc/build.md)  
