@@ -67,7 +67,7 @@ https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_jp.md#pro-mic
 以下を参考に書き込んでください。または、QMKで検索すると書き込み方がすぐに出てくるはずです。  
 https://docs.qmk.fm/#/getting_started_build_tools  
 Runner3680のFirmwareは以下にあります。  
-https://github.com/qmk/qmk_firmware/tree/master/keyboards/runner3680  
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/omkbd/runner3680  
 レイアウトによってファームウェアが異なります。  
 例えば5行6列の場合は5x6を使用します。  
 左右で異なるレイアウトの場合は大きいほうのファームウェアを使用します。  

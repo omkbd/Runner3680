@@ -5,7 +5,7 @@
 # Firmware
 
 The Runner3680 uses QMK for its firmware, and the code for it is here:
-[QMK - Runner3680 directory](https://github.com/qmk/qmk_firmware/tree/master/keyboards/runner3680)
+[QMK - Runner3680 directory](https://github.com/qmk/qmk_firmware/tree/master/keyboards/omkbd/runner3680)
 .  
 
 
